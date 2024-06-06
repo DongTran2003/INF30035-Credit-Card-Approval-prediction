@@ -11,8 +11,8 @@ The accomplishment process of the project includes:
 - Propose 5 predictive models and evaluate their performance (by evaluation metrics like Accuracy, Precision, Recall, and F1 Score)
 
 # Project flow:
-- To read the overall report of the project, [click here](Report_Credit Card Prediction Models.pdf)
-- To read the markdown file of the report under PDF document, [click here](markdown pdf file.pdf)
-- To download the R markdown file for the project, [click here](Credit Card Approval prediction (R markdown file).rmd)
+- To read the overall report of the project, [click here](Report_Credit_Card_Prediction_Models.pdf)
+- To read the markdown file of the report under PDF document, [click here](markdown_pdf_file.pdf)
+- To download the R markdown file for the project, [click here](Credit_Card_Approval_prediction.rmd)
 
 
