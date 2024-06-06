@@ -1,4 +1,4 @@
-# Introduction
+# About the project
 This project assignment aims to build and compare different predictive models in the case of customers' default payments in Taiwan.
 Link to the case study and dataset: ***https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients***
 
